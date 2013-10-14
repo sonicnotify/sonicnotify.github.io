@@ -3,7 +3,7 @@ layout: layout
 title: "Sonic Notify Blog"
 ---
 
-{% for post in site.posts offset: 0 limit: 50 %}
+{% for post in site.posts offset: 0 limit: 500 %}
 <div class="row">
   <div class="span7">    
     <div class="row">
