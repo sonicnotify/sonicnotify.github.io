@@ -1,0 +1,4 @@
+Sonic Notify Blog
+
+gem install jekyll
+gem install rdiscount
