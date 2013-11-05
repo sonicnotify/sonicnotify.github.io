@@ -19,7 +19,7 @@ So Sonic Notify hates 3D printers? No way, are you kidding? They are the future,
 
 <a href="http://www.flickr.com/photos/sonicnotify/10408560944/" title="IMG_4275.JPG by SN LABS, on Flickr"><img src="http://farm6.staticflickr.com/5483/10408560944_90bc5d3741_c.jpg" width="534" height="800" alt="IMG_4275.JPG"></a>
 
-Thats a little beacon we created that houses the electronics for our upcoming super tiny beacons. Again, no ugly project box.Even more than that it should be obvious that while the fit and finish is not perfect, 3D printing lets you iterate hardware designs faster. The ability to present potential clients and the sales team with models and prototypes to test in the field is invaluable. All in all it turns out that crappy pieces of plastic are really useful at a hardware startup. Now all we have to do is figure out how to print an iPhone.
+Thats a little beacon we created that houses the electronics for our upcoming super tiny beacons. These are super tiny iBeacons. Very cheap, very disposable. Short term activations. Again, no ugly project box.Even more than that it should be obvious that while the fit and finish is not perfect, 3D printing lets you iterate hardware designs faster. The ability to present potential clients and the sales team with models and prototypes to test in the field is invaluable. All in all it turns out that crappy pieces of plastic are really useful at a hardware startup. Now all we have to do is figure out how to print an iPhone.
 
 ##Whats our Setup
 

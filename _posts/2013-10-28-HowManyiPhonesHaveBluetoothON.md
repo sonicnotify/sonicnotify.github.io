@@ -6,7 +6,7 @@ tags:
   - Bluetooth
   - video
 ---
-Here at Sonic we were doing some research trying to find out what percentage of iPhone users in America have Bluetooth on. There didnt seem to be any good answers online. So we decided, lets take it to the streets. After a trip to Staples for a sign we were out asking/pestering people on 28th Street in NYC.
+Here at Sonic we were doing some research trying to find out what percentage of iPhone users in America have Bluetooth on. Why? Because iBeacons requires bluetooth on. If bluetooth is off, ibeacons dont work. There didnt seem to be any good answers online. So we decided, lets take it to the streets. After a trip to Staples for a sign we were out asking/pestering people on 28th Street in NYC.
 <br>
 
 <iframe width="960" height="720" src="//www.youtube.com/embed/7TORoaYb2u0" frameborder="0" allowfullscreen></iframe>

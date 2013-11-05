@@ -3,7 +3,7 @@ layout: portfolio_entry
 title: Biggest Single Beacon Shipment To Date, destination SECRET
 ---
 
-Sent one of our biggest shipments of beacons out today over 100 to one customer. Can't wait to announce this partnership!!
+Sent one of our biggest shipments of beacons, all iBeacon compatible, out today over 100 to one customer. Can't wait to announce this partnership!!
 
 <a href="http://www.flickr.com/photos/sonicnotify/10408744766/" title="IMG_4271 by SN LABS, on Flickr"><img src="http://farm6.staticflickr.com/5539/10408744766_59c0e6a7c9.jpg" width="333" height="500" alt="IMG_4271"></a>
 
