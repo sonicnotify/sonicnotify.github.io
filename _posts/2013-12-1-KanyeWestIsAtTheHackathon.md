@@ -1,10 +1,14 @@
 ---
 layout: portfolio_entry
 title: Kanye West is AT the @AngelHackNYC hackathon
-
+tags:
+  - iBeacon
+  - hackathon
 ---
 
-Sonic Notify team is currently at the @AngelHackNYC hackathon. We thought with all the fun/sucess we are having with Retail beacon implemenations. Maybe there is a silly idea we can do, so we present the app **KANYE**
+Sonic Notify team is currently at the @AngelHackNYC hackathon. We thought with all the fun/success we are having with Retail beacon implemenations, maybe there is a silly idea we can do, so we present the app **KANYE**
+
+<a href="http://www.flickr.com/photos/sonicnotify/11156511996/" title="demo_icon_1024 by SN LABS, on Flickr"><img src="http://farm4.staticflickr.com/3700/11156511996_1e9d0d8a59.jpg" width="500" height="500" alt="demo_icon_1024"></a>
 
 Application uses Sonic Notify beacons (BLE, iBeacon, AudioWatermark) to wake up the app in the background when you are in range of Kanye West. (Requires Kanye to be wearing specially made Bling Necklace/Beacon)
 
