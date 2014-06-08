@@ -16,7 +16,8 @@ This is for the Reviews and Purchase challenge.
 We used the Micello API for the maps and the Sears Deals API to find the closest apis.
 4. End of The World, sears has everything you need. So you can grab a list, share a list, etc and then it will only alert you to items that are on your list for the end of the world
 
-![Range](http://blog.sonicnotify.com/img/range.png)
+<a href="http://blog.sonicnotify.com/img/range.png" title="Range"><img src="http://blog.sonicnotify.com/img/range.png" width="720" height="1280" alt="Range"></a>
+![Range](http://blog.sonicnotify.com/img/range.png "title")
 ![Crib](http://blog.sonicnotify.com/img/crib.png)
 ![Map](http://blog.sonicnotify.com/img/map1.png)
 ![Map Again](http://blog.sonicnotify.com/img/map2.png)
