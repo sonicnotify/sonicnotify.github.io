@@ -1,6 +1,6 @@
 ---
 layout: portfolio_entry
-title: 20 Mins till presentation time at #SearsDevChallenge
+title: 20 Mins till presentation time at SearsDevChallenge
 ---
 
 Would like to say we stayed up all night here in downtown NYC. But life intervened, maybe we are getting old. We still cranked for a good amount of time. 
@@ -16,9 +16,9 @@ This is for the Reviews and Purchase challenge.
 We used the Micello API for the maps and the Sears Deals API to find the closest apis.
 4. End of The World, sears has everything you need. So you can grab a list, share a list, etc and then it will only alert you to items that are on your list for the end of the world
 
-[Range](http://blog.sonicnotify.com/img/range.png)
-[Crib](http://blog.sonicnotify.com/img/crib.png)
-[Map](http://blog.sonicnotify.com/img/map1.png)
-[Map Again](http://blog.sonicnotify.com/img/map2.png)
-[Icon](http://blog.sonicnotify.com/img/icon.png)
+![Range](http://blog.sonicnotify.com/img/range.png)
+![Crib](http://blog.sonicnotify.com/img/crib.png)
+![Map](http://blog.sonicnotify.com/img/map1.png)
+![Map Again](http://blog.sonicnotify.com/img/map2.png)
+![Icon](http://blog.sonicnotify.com/img/icon.png)
 
