@@ -4,13 +4,13 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Eric Jones</title>
+ <title>Signal360 </title>
  <link href="http://sonicnotify.github.com/atom.xml" rel="self"/>
  <link href="http://sonicnotify.github.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://sonicnotify.github.com</id>
  <author>
-   <name>Sonic Notify Blog</name>
+   <name>Signal360 Blog</name>
  </author>
  
  {% for post in site.posts %}
