@@ -1,6 +1,6 @@
 ---
 layout: portfolio_entry
-title: NYC Startup looks to do business with Kim Jung Un
+title: NYC Startup looks to do business with Kim Jong-un
 tags:
 ---
 
