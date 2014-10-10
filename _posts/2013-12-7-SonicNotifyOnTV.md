@@ -7,7 +7,7 @@ tags:
 <link href="https://vjs.zencdn.net/4.0/video-js.css" rel="stylesheet">
 <script src="https://vjs.zencdn.net/4.0/video.js"></script>
 
-Sonic Notify used to have the Second Screen demo below on the main website, but had to move it off to make way for the fantastic [Notify Ned](http://blog.sonicnotify.com/img/SonicNotifyAnimation.gif)
+Sonic Notify used to have the Second Screen demo below on the main website, but had to move it off to make way for the fantastic [Notify Ned](http://blog.signal360.com/img/SonicNotifyAnimation.gif)
 
 #Demo
 
