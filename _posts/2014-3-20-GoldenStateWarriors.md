@@ -1,7 +1,8 @@
 ---
 layout: portfolio_entry
 title: Golden State Warriors and Sonic Notify Team Up to Bring Proximity Technology to Oracle Arena
-tags: press release
+tags:
+  - press release
 ---
 
 The Golden State Warriors today officially launched a partnership with Sonic Notify to integrate proximity technology into the Warriors mobile app. The solution went live on March 18th at Oracle Arena and is one of the first live rollouts of proximity beacon technology at a major sporting venue.

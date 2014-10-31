@@ -1,7 +1,8 @@
 ---
 layout: portfolio_entry
 title: European Mobile Application Chooses Sonic Notify to Power Proximity-Aware Capabilities
-tags: press release
+tags:
+  - press release
 ---
 
 In Europe, as in the United States, retail, marketing, and technology media have been increasingly reporting on the transformational potential for proximity marketing. This emerging technology is being widely hailed as a game changer for retailers, who have struggled with losing ground to e-tailers. Proximity marketing allows retailers to at last deliver their own powerful content to in-store shoppers’ mobile devices, delivering special offers, store mapping and links to buying guides, user reviews, and more, based on an individual user’s precise in-store location. While proximity marketing is sometimes referred to generically as iBeacon™, Apple’s Bluetooth Low-Energy (BLE) standard, iBeacons™ alone have narrow applications and must be complemented by additional systems such as a robust content management system to target and control messaging.

@@ -1,7 +1,8 @@
 ---
 layout: portfolio_entry
 title: Signal360 and The University Of Michigan Add Proximity Magic To The Big House
-tags: press release
+tags:
+  - press release
 ---
 
 There is only one Big House and when it comes to college stadiums, it’s America's largest. The University of Michigan Athletic department is always looking to improve the experience for the 100,000+ loyal fans who attend each of its games. At the start of the season, Michigan decided to expand the proximity technology in its mobile application in order to deliver precise messaging to its fans throughout the facility. With only a few weeks before the first game, Michigan was referred to Signal360, the leading proximity marketing company with four years experience and a complete turnkey solution for proximity marketing. Integration was complete in just one week.
